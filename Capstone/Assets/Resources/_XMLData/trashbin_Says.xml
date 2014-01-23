@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<trashbin>
+	<Convo_0>
+		<Say>Garbage can</Say> 
+		
+		<R1>You look inside the garbage can. You see a strange metalic object covered with paper</R1>
+		
+		<R11>You notice that it is a gun</R11>
+		<R12>You have just picked up a gun possibly ruining the finger prints it may have had on it</R12>
+		<R13>No one is around to help you</R13>
+		
+		<R111>You have just picked up a gun possibly ruining the finger prints it may have had on it</R111>
+		<R112>You have picked up the gun preserving possible finger prints on it</R112>
+		
+		<R131>You notice that it is a gun</R131>
+		<R132>You have just picked up a gun possibly ruining the finger prints it may have had on it</R132>
+		
+		<R1311>You have just picked up a gun possibly ruining the finger prints it may have had on it</R1311>
+		<R1312>You have picked up the gun preserving possible finger prints on it</R1312>
+		
+	</Convo_0>
+
+</trashbin>

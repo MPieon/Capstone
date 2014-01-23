@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Answers>
+	<Convo_0>
+		<A1>Investigate</A1>
+		<A2>Walk away..</A2>
+		
+		<A11>Move paper over and take a closer look</A11>
+		<A12>Try to pick up the object with barehands</A12>
+		<A13>Call someone over for help</A13>
+		
+		<A111>Pick up the gun with barehands</A111>
+		<A112>Pick up the gun with gloves on</A112>
+		
+		<A131>Move paper over and take a closer look</A131>
+		<A132>Try to pick up the object with barehands</A132>
+		
+		<A1311>Pick up the gun with barehands</A1311>
+		<A1312>Pick up the gun with gloves on</A1312>
+		
+	</Convo_0>
+
+</Answers>

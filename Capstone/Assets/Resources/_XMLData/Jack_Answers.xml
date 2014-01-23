@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Answers>
+	<!--	Each time you talk to Jack new Convo starts	-->
+	<Convo_0>
+		<!-- First response to what Jack says -->
+		<A1>Can you tell me what happened here?</A1>
+		<A2>Can I ask you a few questions?</A2>
+		
+		<!-- Second response to what Jack says -->
+
+	</Convo_0>
+	<Convo_1>
+	
+	</Convo_1>
+</Answers>

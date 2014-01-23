@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Bob>
+	<!--	Each time you talk to Bob new Convo starts	-->
+	<Convo_0>
+		<!-- First Bob Says -->
+		<Say>Hello officer, my name is Bob how may I help you?</Say> 
+		
+		<!-- Bob Response to player -->
+		<R1>Of course, I'd love to answer some questions</R1>
+		<R2>Umm... Sure I guess? As long as I don't have to travel to the police station</R2>
+		
+		<!-- Second Bob Response to player -->
+		<R11>Yes, I heard a loud 'bang' next door. Then I heard screaming. I think I saw a man run out with his hoodie up</R11>
+		<R12>I'm pretty sure I saw a man run out with his hoodie up and he threw something into that garbage can.</R12>
+		<R13>No sir.</R13>
+		
+		<R21>I don't think I want to do that.. I know my rights!</R21>
+		<R22>Ya sure.. I heard a noise like a 'bang' next door. Followed by screaming.</R22>
+		<R23>I think I saw a man run out with his hoodie up he may of thrown something into the garbage can</R23>
+		
+		<!-- Third Bob Response to player -->
+		<!-- R1 -->
+		<R111>Yes officer, I think I also saw him throw somethig into that garbage can</R111>
+		<R112>No, sorry officer.</R112>
+		<R113>No he just ran.. But he did throw something into the garbage can</R113>
+		<R114>I cannot identify the man. But it sounded like a female was screaming</R114>
+		
+		<R121>No sir. But it did look like a small object</R121>
+		<R122>No, sorry officer</R122>
+		
+		<R131>Yes I'm SURE!</R131>
+		<R132>On what grounds?!</R132>
+		<R133>Sure.. I heard a loud noise and saw someone run out with their hoodie up?</R133>
+		<R134>Really? I don't think I want to talk to you anymore</R134>
+		<!-- End R1 | Start R2 -->
+		
+		<R211>I think NOT! I am DONE talking with YOU!</R211>
+		<R212>What arrest?! I didn't do anything!</R212>
+		<R213>Excuse me?</R213>
+		<R214>Right.. I'm going to go talk with another officer</R214>
+		
+		<R221>I think I saw a someone run out with their hoodie up</R221>
+		<R222>No I have nothing ELSE to add</R222>
+		<R223>What are you getting at?</R223>
+		
+		<R231>No</R231>
+		<R232>No</R232>
+		<R233>Excuse me? I think I'm done here</R233>
+		<R234>Good-BYE!</R234>
+		
+		<!-- Forth Bob Response to player -->
+		
+		<R1111>No sir I cannot</R1111>
+		<R1112>No sir couldn't see it very well</R1112>
+		<R1113>Glad I was of help. Good luck on the investigation</R1113>
+
+	</Convo_0>
+	<Convo_1>
+	
+	</Convo_1>
+</Bob>

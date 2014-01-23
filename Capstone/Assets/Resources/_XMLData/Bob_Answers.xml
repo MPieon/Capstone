@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Answers>
+	<!--	Each time you talk to Bob new Convo starts	-->
+	<Convo_0>
+		<!-- First response to what Bob says -->
+		<A1>Hello Bob, I'd like to ask you a few questions if you don't mind</A1>
+		<A2>Hello Bob, I'm cosidering the fact that you might be a suspect. I need to ask you some questions you must comply</A2>
+		
+		<!-- Second response to what Bob says (Depending on what Bob has said) -->
+		<A11>Can you tell me what happened here?</A11>
+		<A12>Can you tell me what you saw?</A12>
+		<A13>Did you commit the crime?</A13>
+		
+		<A21>You will need to travel to the police station with me.</A21>
+		<A22>Can you tell me what happened here?</A22>
+		<A23>Can you tell me what you saw?</A23>
+		
+		<!-- Third response to what Bob says (Depending on that Bob has said) -->
+		<!-- A1 -->
+		<A111>You think you saw a man run out, with his hoodie up?</A111>
+		<A112>Do you think you can ID this man?</A112>
+		<A113>Did the man do anything out of the ordinary?</A113>
+		<A114>Can you identify the man or the scream?</A114>
+		
+		<A121>Do you think you can identify the object which was thrown out?</A121>
+		<A122>Do you think you can ID the man that ran out?</A122>
+		
+		<A131>Are you sure?</A131>
+		<A132>I think I will need to bring you in for further questioning</A132>
+		<A133>Alright, can you tell me what happened here?</A133>
+		<A134>I don't now if I should believe you.. You're the only one out here after all</A134>
+		<!-- End A1 | Start A2 -->
+		
+		<A211>I forgot what your rights are. So you are coming with me anyways</A211>
+		<A212>Are you going to resist arrest?!</A212>
+		<A213>Resistance is fultile!</A213>
+		<A214>I was joking about all that.</A214>
+		
+		<A221>Anything else you want to add to that?</A221>
+		<A222>Anything ELSE you want to add to that?</A222>
+		<A223>Anything else you WANT to add to that?</A223>
+		
+		<A231>Have you ever seen that person before?</A231>
+		<A232>Did you see what object it was?</A232>
+		<A233>Riiiiight... You see or hear anything else?</A233>
+		<A234>Are you high? Are you seeing things?</A234>
+		
+		<!-- Forth response to what Bob says (Depending on that Bob has said) -->
+		<!-- Start A11 -->
+		
+		<A1111>Can you identify the object?</A1111>
+		<A1112>Can you identify the person?</A1112>
+		<A1113>Thank you for your statement I will go check out the garbage can right now.</A1113>
+		
+		<A1121>Ok, thats fine</A1121>
+		<A1122>Are you sure?</A1122>
+		
+	</Convo_0>
+	
+	<!-- New Convo with Bob. After a certain period of time -->
+	<Convo_1>
+	
+	</Convo_1>
+</Answers>

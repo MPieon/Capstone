@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Jack>
+	<!--	Each time you talk to Jack new Convo starts	-->
+	<Convo_0>
+		<!-- First Jack Says -->
+		<Say>I am sorry I have to go to work, what is it?</Say> 
+		
+		<!-- Jack first response to player -->
+		<R1>Sorry, I have to go</R1>
+		<R2>Sure, what can I help you with officer?</R2>
+		
+		
+
+	</Convo_0>
+	<Convo_1>
+	
+	</Convo_1>
+</Jack>
